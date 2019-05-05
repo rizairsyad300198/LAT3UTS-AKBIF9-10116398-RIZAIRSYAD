@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person_black"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_call"
+        android:title="Contact" />
+
+    <item
+        android:id="@+id/find_me"
+        android:icon="@drawable/ic_location_on"
+        android:title="Fiend Me" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_perm_device_information"
+        android:title="About" />
+
+</menu>

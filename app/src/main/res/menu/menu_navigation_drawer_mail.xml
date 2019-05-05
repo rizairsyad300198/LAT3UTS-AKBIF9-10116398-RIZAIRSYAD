@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/grp_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:checked="true"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/daily_activity"
+            android:checked="true"
+            android:icon="@drawable/ic_timeline"
+            android:title="Daily Activity" />
+        <item
+            android:id="@+id/gallery"
+            android:checked="true"
+            android:icon="@drawable/ic_photo"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/music_video"
+            android:checked="true"
+            android:icon="@drawable/ic_music_video"
+            android:title="Music and Video" />
+        <item
+            android:id="@+id/profile"
+            android:checked="true"
+            android:icon="@drawable/ic_person_black"
+            android:title="Profile" />
+    </group>
+
+</menu>

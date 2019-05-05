@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/daily_activity"
+        android:icon="@drawable/ic_timeline"
+        android:title="Daily Activity" />
+
+    <item
+        android:id="@+id/friend_list"
+        android:icon="@drawable/ic_contacts"
+        android:title="Friend List" />
+
+</menu>
